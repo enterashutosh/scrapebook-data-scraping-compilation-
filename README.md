@@ -8,7 +8,7 @@ this is a compilation of data scraping micro projects, designed to work upon dum
 - [Flipkart - Mobile Phones and Prices](#Flipkart---mobile-phones-and-prices)
 - [Turtle Images - Dealing with iFrames](#turtle-images---dealing-with-iframes)
 - [YouTube - Top 100 Songs](#youtube---top-100-songs)
-- [Twitter - Tweets from @ankitatiima](#twitter---tweets-from-@ankitiima)
+- [Twitter - Tweets from @ankitatiima](#twitter---tweets-from-@ankitatiima)
 
 ## Installation
 
