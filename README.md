@@ -6,7 +6,7 @@ this is a compilation of data scraping micro projects, designed to work upon dum
 - [Installaiton](#installation)
 
 - [Flipkart - Mobile Phones and Prices](#Flipkart)
-- [Turtle Images - Dealing with iFrames](#Turtle Images)
+- [Turtle Images - Dealing with iFrames](#Turtle)
 - [YouTube - Top 100 Songs](#YouTube)
 - [Twitter - Tweets from @ankitatiima](#Twitter)
 
