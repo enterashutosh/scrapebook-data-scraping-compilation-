@@ -5,10 +5,10 @@ this is a compilation of data scraping micro projects, designed to work upon dum
 ## Table of Contents
 - [Installaiton](#installation)
 
-- [Flipkart - Mobile Phones and Prices](#Flipkart---mobile-phones-and-prices)
+- [Flipkart - Mobile Phones and Prices](#flipkart---mobile-phones-and-prices)
 - [Turtle Images - Dealing with iFrames](#turtle-images---dealing-with-iframes)
 - [YouTube - Top 100 Songs](#youtube---top-100-songs)
-- [Twitter - Tweets from ankitatiima](#twitter---tweets-from-ankitatiima)
+- [Twitter - Tweets from Elon Musk](#twitter---tweets-from-elon-musk)
 
 ## Installation
 
@@ -30,9 +30,9 @@ Extracts turtle images from a webpage containing iframes, switches to iframes, e
 
 Scrapes the top 100 songs of 2023 from YouTube. Performs a search for top songs and extracts the titles of the songs from the playlist.
 
-## Twitter - Tweets from ankitatiima
+## Twitter - Tweets from Elon Musk
 
-Scrapes tweets from the Twitter profile @ankitatiima. Handles pop-ups during scrolling and extracts text content of the tweets.
+Scrapes tweets from the Twitter profile @elonmusk. Handles pop-ups during scrolling and extracts text content of the tweets.
 
 ---
 
